@@ -11,28 +11,31 @@ This project analyzes log files to detect suspicious activities, track IP reques
 
 To get started with this project, follow these steps to set up your environment and run the code.
 
-# 1. Clone the Repository  
-git clone https://github.com/NisargaKumar/VRV-Security-Python-Assignment.git  
+# 1. Clone the Repository
+git clone https://github.com/NisargaKumar/VRV-Security-Python-Assignment.git
 
-# 2. Set Up a Virtual Environment  
-# Create a virtual environment to isolate dependencies:   
-# On Windows  
-python -m venv venv  
+# 2. Set Up a Virtual Environment
 
-# On macOS/Linux  
-python3 -m venv venv  
-  
-# Activate the virtual environment:  
-# On Windows   
-venv\Scripts\activate  
+# Create a virtual environment to isolate dependencies:
 
-# On macOS/Linux  
-source venv/bin/activate   
+# On Windows
+python -m venv venv
 
-# 3. Install Dependencies  
+# On macOS/Linux
+python3 -m venv venv
 
-# This project uses built-in Python libraries (re, csv, collections),  
-# so you don't need to install any additional packages.  
+# Activate the virtual environment:
 
-# 4. Run the Code  
-python log_analysis.py  
+# On Windows
+venv\Scripts\activate
+
+# On macOS/Linux
+source venv/bin/activate
+
+# 3. Install Dependencies
+
+# This project uses built-in Python libraries (re, csv, collections),
+# so you don't need to install any additional packages.
+
+# 4. Run the Code
+python log_analysis.py
