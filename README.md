@@ -15,7 +15,6 @@ To get started with this project, follow these steps to set up your environment 
 git clone https://github.com/NisargaKumar/VRV-Security-Python-Assignment.git  
 
 # 2. Set Up a Virtual Environment  
-
 # Create a virtual environment to isolate dependencies:   
 # On Windows  
 python -m venv venv  
